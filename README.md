@@ -1,5 +1,10 @@
 # Employee Attendance System
 
+Presented by
+Name : BOLE CHANDRASEKHARA NAGA VARAPRASAD
+College : ANDHRA UNIVERSITY COLLEGE OF ENGINEERING ,VISAKHAPATNAM
+Contact no : 9553715107
+
 ## Overview
 This is a full-stack Employee Attendance System with two user roles: Employee and Manager.
 
